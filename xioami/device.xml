@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!--project path="device/xiaomi/ferrari" name="Nougat-7-0/android_device_xiaomi_ferrari" /-->
+  <project path="device/xiaomi/ferrari" name="Nougat-7-0/android_device_xiaomi_ferrari" />
   <project path="vendor/xiaomi/ferrari" name="Nougat-7-0/android_vendor_xiaomi_ferrari" />
   <project path="kernel/xiaomi/ferrari" name="Nougat-7-0/android_kernel_xiaomi_ferrari" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
