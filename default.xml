@@ -494,6 +494,7 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
 
   <include name="snippets/cm-14.0.xml" />
+  <include name="snippets/hal_cm_all.xml"/>
   <include name="xioami/device.xml" />
 
 </manifest>
