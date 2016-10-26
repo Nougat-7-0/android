@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/ferrari" name="Ferrari-Dev-Team/android_device_xiaomi_ferrari" />
-  <project path="vendor/xiaomi/ferrari" name="Ferrari-Dev-Team/android_vendor_xiaomi_ferrari" />
-  <project path="kernel/xiaomi/ferrari" name="Ferrari-Dev-Team/android_kernel_xiaomi_ferrari" />
+  <project path="device/xiaomi/ferrari" name="Ferrari-Dev-Team/android_device_xiaomi_ferrari" revision="cm-14.0" />
+  <project path="vendor/xiaomi/ferrari" name="Ferrari-Dev-Team/android_vendor_xiaomi_ferrari" revision="cm-14.0" />
+  <project path="kernel/xiaomi/ferrari" name="Ferrari-Dev-Team/android_kernel_xiaomi_ferrari" revision="cm-14.0" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
   <project path="device/cyanogen/msm8916-common" name="Ferrari-Dev-Team/android_device_cyanogen_msm8916-common" />
-  <project path="external/stlport" name="CyanogenMod/android_external_stlport" revision="cm-14.0" />
+  <!--project path="external/stlport" name="CyanogenMod/android_external_stlport" revision="cm-14.1" /-->
   <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" revision="cm-14.0" />
-  <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" revision="cm-13.0" groups="pdk-cw-fs,pdk-fs" />
+  <!--project path="external/android-mock" name="CyanogenMod/android_external_android-mock" revision="cm-13.0" groups="pdk-cw-fs,pdk-fs" /-->
   <!--project path="vendor/google/build" name="MI-4i/aosp_build" clone-depth="1" revision="master" />
   <project path="vendor/opengapps/sources/all" name="MI-4i/all" clone-depth="1" revision="master" />
   <project path="vendor/opengapps/sources/arm" name="MI-4i/arm" clone-depth="1" revision="master" />
